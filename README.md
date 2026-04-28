@@ -4,7 +4,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115%2B-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/Redis-7-DC382D?logo=redis&logoColor=white)](https://redis.io/)
-[![CI](https://github.com/SpyloDEV/ai-document-processing-api/actions/workflows/ci.yml/badge.svg)](https://github.com/SpyloDEV/ai-document-processing-api/actions/workflows/ci.yml)
+[![CI](https://github.com/SpyloDEV/ai-document-processing-api/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/SpyloDEV/ai-document-processing-api/actions/workflows/ci.yml)
 
 A production-style backend API for AI-assisted document processing. The service lets users upload invoices, receipts, contracts, PDFs, images, CSV files, or text documents, then runs an extraction pipeline that parses content, produces structured fields, validates missing or risky data, and exports clean JSON or CSV results.
 
